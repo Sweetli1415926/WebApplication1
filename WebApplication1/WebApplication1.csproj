@@ -75,7 +75,10 @@
     </None>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="HellowWorld.html" />
+    <Content Include="Test.js" />
     <Content Include="Web.config" />
+    <Content Include="web3.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
